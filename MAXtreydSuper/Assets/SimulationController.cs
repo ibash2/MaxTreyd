@@ -1,11 +1,6 @@
-﻿using DG.Tweening;
-using System.Collections;
-using System.Collections.Generic;
-using TMPro;
-using Unity.VisualScripting;
-using UnityEngine;
-using UnityEngine.InputSystem.Android;
-using static UnityEditor.Experimental.AssetDatabaseExperimental.AssetDatabaseCounters;
+﻿using DG.Tweening; 
+using TMPro; 
+using UnityEngine;  
 
 public class SimulationController : MonoBehaviour
 {
